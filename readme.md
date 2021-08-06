@@ -11,8 +11,8 @@ scikit-multilearn
 
 
 ## Datasets && trained Models 
-You can download the data files and our trained models [here](https://pan.baidu.com/s/1OtPUX3QEbWkk6mYGv9fk1Q)
-password: ep6u
+You can download the data files and our trained models [here](https://pan.baidu.com/s/114NdUrJpjvqXlSUZhuhtPw)
+password: 0i5r
 
 
 ## Result
