@@ -1,0 +1,1 @@
+You can open the .onnx file by clik [here](https://netron.app/)
