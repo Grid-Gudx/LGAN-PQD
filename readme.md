@@ -1,6 +1,6 @@
 # LGAN for PQD Multilabel Classification
 Implementation of the paper: A Novel Label-guided Attention Method for Multilabel Classification of Multiple Power Quality Disturbances
-
+[here](https://ieeexplore.ieee.org/document/9558707)
 
 ## Environment
 Python 3.7  
@@ -9,6 +9,9 @@ tensorflow 2.1.0 GPU
 scikit-learn 0.22.1  
 scikit-multilearn  
 
+
+## framework of LGAN
+![avatar](./LGAN-framework.jpg)
 
 ## Datasets && trained Models 
 You can download the data files and our trained models [here](https://pan.baidu.com/s/114NdUrJpjvqXlSUZhuhtPw)
