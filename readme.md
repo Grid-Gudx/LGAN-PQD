@@ -9,13 +9,12 @@ tensorflow 2.1.0 GPU
 scikit-learn 0.22.1  
 scikit-multilearn  
 
-
 ## framework of LGAN
 ![avatar](./LGAN-framework.jpg)
 
 ## Datasets && trained Models 
-You can download the data files and our trained models [here](https://pan.baidu.com/s/114NdUrJpjvqXlSUZhuhtPw)
-password: 0i5r
+You can download the data files and our trained models [here](https://pan.baidu.com/s/1uf_C-sEa4Mxo5Y-K-F7DaQ)
+password: 6j5i
 
 
 ## Result
