@@ -64,9 +64,9 @@ def ml_test(model_name, data_name):
 
     return acc,ham,oe,rl,ce,ap
 
-# model_name = 'cnn_atten_rnn35.pth'
-# data_name = 'test_ml_100_rand'
-# print(ml_test(model_name, data_name))
+model_name = 'cnn_atten_rnn35.pth'
+data_name = 'test_ml_100_rand'
+print(ml_test(model_name, data_name))
 
 ### ML_CNN test
 def ml_cnn_test(model_name, data_name):
@@ -153,7 +153,7 @@ def bpmll_test(model_name, data_name):
     return acc,ham,oe,rl,ce,ap
 
 # model_name = 'bpmll35.h5'
-model_name = 'cnn_bpmll35.h5'
-data_name = 'test_ml_100_rand'
-print(bpmll_test(model_name, data_name))
+# model_name = 'cnn_bpmll35.h5'
+# data_name = 'test_ml_100_rand'
+# print(bpmll_test(model_name, data_name))
 
