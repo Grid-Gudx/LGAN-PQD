@@ -1,7 +1,3 @@
-# LGAN for PQD Multilabel Classification
-Implementation of the paper: A Novel Label-guided Attention Method for Multilabel Classification of Multiple Power Quality Disturbances
-[here](https://ieeexplore.ieee.org/document/9558707)
-
 ## Environment
 Python 3.7  
 Pytorch 1.8.1 GPU  
